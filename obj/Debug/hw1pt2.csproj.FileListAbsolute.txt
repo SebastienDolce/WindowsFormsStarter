@@ -1,0 +1,27 @@
+C:\Users\Peter\documents\visual studio 2015\Projects\WindowsFormsApplication1\hw1pt2\bin\Debug\hw1pt2.exe.config
+C:\Users\Peter\documents\visual studio 2015\Projects\WindowsFormsApplication1\hw1pt2\bin\Debug\hw1pt2.exe
+C:\Users\Peter\documents\visual studio 2015\Projects\WindowsFormsApplication1\hw1pt2\bin\Debug\hw1pt2.pdb
+C:\Users\Peter\documents\visual studio 2015\Projects\WindowsFormsApplication1\hw1pt2\obj\Debug\hw1pt2.Form1.resources
+C:\Users\Peter\documents\visual studio 2015\Projects\WindowsFormsApplication1\hw1pt2\obj\Debug\hw1pt2.Properties.Resources.resources
+C:\Users\Peter\documents\visual studio 2015\Projects\WindowsFormsApplication1\hw1pt2\obj\Debug\hw1pt2.csproj.GenerateResource.Cache
+C:\Users\Peter\documents\visual studio 2015\Projects\WindowsFormsApplication1\hw1pt2\obj\Debug\hw1pt2.exe
+C:\Users\Peter\documents\visual studio 2015\Projects\WindowsFormsApplication1\hw1pt2\obj\Debug\hw1pt2.pdb
+C:\Users\Peter\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\hw1pt2\bin\Debug\hw1pt2.exe.config
+C:\Users\Peter\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\hw1pt2\bin\Debug\hw1pt2.exe
+C:\Users\Peter\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\hw1pt2\bin\Debug\hw1pt2.pdb
+C:\Users\Peter\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\hw1pt2\obj\Debug\hw1pt2.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\hw1pt2\obj\Debug\hw1pt2.Form1.resources
+C:\Users\Peter\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\hw1pt2\obj\Debug\hw1pt2.MainForm.resources
+C:\Users\Peter\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\hw1pt2\obj\Debug\hw1pt2.Properties.Resources.resources
+C:\Users\Peter\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\hw1pt2\obj\Debug\hw1pt2.csproj.GenerateResource.Cache
+C:\Users\Peter\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\hw1pt2\obj\Debug\hw1pt2.exe
+C:\Users\Peter\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\hw1pt2\obj\Debug\hw1pt2.pdb
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\hw1pt2\bin\Debug\hw1pt2.exe.config
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\hw1pt2\bin\Debug\hw1pt2.exe
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\hw1pt2\bin\Debug\hw1pt2.pdb
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\hw1pt2\obj\Debug\hw1pt2.InputForm.resources
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\hw1pt2\obj\Debug\hw1pt2.MainForm.resources
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\hw1pt2\obj\Debug\hw1pt2.Properties.Resources.resources
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\hw1pt2\obj\Debug\hw1pt2.csproj.GenerateResource.Cache
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\hw1pt2\obj\Debug\hw1pt2.exe
+C:\Users\Peter\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\hw1pt2\obj\Debug\hw1pt2.pdb
